@@ -2,6 +2,8 @@
 
 A beautiful terminal-based reading tracker that grows a virtual plant as you progress through your books. Watch your garden flourish with each page you read!
 
+![Book Garden Demo](demo.gif)
+
 ## Features
 
 - **Multi-Book Library**: Track unlimited books simultaneously
