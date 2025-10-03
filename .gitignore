@@ -1,0 +1,4 @@
+/target
+/reading_src/book_progress.json
+/reading_src/library.json
+Cargo.lock
